@@ -1,0 +1,65 @@
+.number-page {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: white;
+}
+
+.number-page-logo {
+  width: 264px;
+  height: 50px;
+  flex-shrink: 0;
+  margin-bottom: 111px;
+  /* margin-top: 156px; */
+}
+
+.number-page-heading {
+  color: #000;
+  font-family: "Work Sans";
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-bottom: 20px;
+}
+
+.number-back-sign-in-line {
+  color: #666;
+  font-family: Work Sans;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-bottom: 68px;
+}
+
+.number-page-otp-note {
+  color: #999;
+  text-align: center;
+  font-family: Work Sans;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: 31px;
+  margin-bottom: 103px;
+}
+
+.number-page-sign-in-button {
+  width: 224px;
+  height: 36px;
+  flex-shrink: 0;
+  border-radius: 100px;
+  background: #f7b348;
+  color: #fff;
+  text-align: center;
+  font-family: Work Sans;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  border: none;
+  outline: none;
+}
